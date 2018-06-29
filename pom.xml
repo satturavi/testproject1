@@ -32,12 +32,12 @@
     <repository>
         <id>central</id>
         <name>DESKTOP-19HKE60-releases</name>
-        <url>http://localhost:8081/artifactory/testproject</url>
+        <url>http://localhost:8081/artifactory/testprojectr</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>DESKTOP-19HKE60-snapshots</name>
-        <url>http://localhost:8081/artifactory/testproject</url>
+        <url>http://localhost:8081/artifactory/testprojectr</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
